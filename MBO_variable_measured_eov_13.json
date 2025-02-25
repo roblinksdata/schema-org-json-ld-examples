@@ -5,14 +5,8 @@
   },
   "@id": "https://w3id.org/marco-bolo/MBO_variable_measured_eov_13",
   "@type": "PropertyValue",
-  "description": {
-    "@type": "Text",
-    "@value": "Sea surface temperature"
-  },
-  "name": {
-    "@type": "Text",
-    "@value": "Sea surface temperature"
-  },
+  "description": "Sea surface temperature",
+  "name": "Sea surface temperature",
   "propertyID": {
     "@id": "https://goosocean.org/document/17466"
   }

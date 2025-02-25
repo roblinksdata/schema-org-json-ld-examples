@@ -5,34 +5,16 @@
   },
   "@id": "https://w3id.org/marco-bolo/mbo_TODO_DATASET_10",
   "@type": "Dataset",
-  "description": {
-    "@type": "Text",
-    "@value": "Some description"
-  },
-  "schema:isBasedOn": {
-    "@type": "URL",
-    "@value": "https://example.com/some-existing-dataset"
-  },
-  "schema:license": {
-    "@type": "URL",
-    "@value": "https://spdx.org/licenses/EUPL-1.2"
-  },
-  "name": {
-    "@type": "Text",
-    "@value": "Some title"
-  },
+  "description": "Some description",
+  "isBasedOn": "https://example.com/some-existing-dataset",
+  "license": "https://spdx.org/licenses/EUPL-1.2",
+  "name": "Some title",
   "sdPublisher": {
     "@id": "https://oceanexpert.org/expert/27172"
   },
-  "schema:url": [
-    {
-      "@type": "URL",
-      "@value": "https://example.com/some-other-landing-page"
-    },
-    {
-      "@type": "URL",
-      "@value": "https://example.com/some-landing-page"
-    }
+  "url": [
+    "https://example.com/some-landing-page",
+    "https://example.com/some-other-landing-page"
   ],
   "variableMeasured": [
     {

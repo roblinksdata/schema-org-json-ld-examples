@@ -11,8 +11,5 @@
   "parentItem": {
     "@id": "https://w3id.org/marco-bolo/mbo_TODO_DATASET_10"
   },
-  "text": {
-    "@type": "Text",
-    "@value": "This dataset took a lot of hard work to create."
-  }
+  "text": "This dataset took a lot of hard work to create."
 }

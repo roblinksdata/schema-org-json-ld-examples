@@ -5,14 +5,8 @@
   },
   "@id": "https://w3id.org/marco-bolo/MBO_variable_measured_eov_17",
   "@type": "PropertyValue",
-  "description": {
-    "@type": "Text",
-    "@value": "Sea surface salinity"
-  },
-  "name": {
-    "@type": "Text",
-    "@value": "Sea surface salinity"
-  },
+  "description": "Sea surface salinity",
+  "name": "Sea surface salinity",
   "propertyID": {
     "@id": "https://goosocean.org/document/17470"
   }

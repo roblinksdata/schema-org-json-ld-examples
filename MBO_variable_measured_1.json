@@ -5,36 +5,18 @@
   },
   "@id": "https://w3id.org/marco-bolo/MBO_variable_measured_1",
   "@type": "PropertyValue",
-  "description": {
-    "@type": "Text",
-    "@value": "Number of hotdogs consumed per person in a one minute competitive eating competition."
-  },
+  "description": "Number of hotdogs consumed per person in a one minute competitive eating competition.",
   "maxValue": {
     "@type": "xsd:decimal",
     "@value": "6.0"
   },
-  "measurementMethod": {
-    "@type": "Text",
-    "@value": "Manual counting"
-  },
-  "measurementTechnique": {
-    "@type": "Text",
-    "@value": "We counted out 20 hot dogs per participant before the minute elapsed, and counted the number remaining at the end."
-  },
+  "measurementMethod": "Manual counting",
+  "measurementTechnique": "We counted out 20 hot dogs per participant before the minute elapsed, and counted the number remaining at the end.",
   "minValue": {
     "@type": "xsd:decimal",
     "@value": "0.5"
   },
-  "name": {
-    "@type": "Text",
-    "@value": "Number of hotdogs consumed"
-  },
-  "unitCode": {
-    "@type": "Text",
-    "@value": "HOTDOGS"
-  },
-  "unitText": {
-    "@type": "Text",
-    "@value": "Number of hotdogs"
-  }
+  "name": "Number of hotdogs consumed",
+  "unitCode": "HOTDOGS",
+  "unitText": "Number of hotdogs"
 }

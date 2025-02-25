@@ -5,14 +5,8 @@
   },
   "@id": "https://w3id.org/marco-bolo/MBO_variable_measured_eov_14",
   "@type": "PropertyValue",
-  "description": {
-    "@type": "Text",
-    "@value": "Subsurface temperature"
-  },
-  "name": {
-    "@type": "Text",
-    "@value": "Subsurface temperature"
-  },
+  "description": "Subsurface temperature",
+  "name": "Subsurface temperature",
   "propertyID": {
     "@id": "https://goosocean.org/document/17467"
   }

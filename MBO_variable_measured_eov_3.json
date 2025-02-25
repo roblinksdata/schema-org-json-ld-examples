@@ -5,14 +5,8 @@
   },
   "@id": "https://w3id.org/marco-bolo/MBO_variable_measured_eov_3",
   "@type": "PropertyValue",
-  "description": {
-    "@type": "Text",
-    "@value": "Fish abundance and distribution"
-  },
-  "name": {
-    "@type": "Text",
-    "@value": "Fish abundance and distribution"
-  },
+  "description": "Fish abundance and distribution",
+  "name": "Fish abundance and distribution",
   "propertyID": {
     "@id": "https://goosocean.org/document/17510"
   }

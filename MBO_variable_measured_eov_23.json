@@ -5,14 +5,8 @@
   },
   "@id": "https://w3id.org/marco-bolo/MBO_variable_measured_eov_23",
   "@type": "PropertyValue",
-  "description": {
-    "@type": "Text",
-    "@value": "Inorganic carbon"
-  },
-  "name": {
-    "@type": "Text",
-    "@value": "Inorganic carbon"
-  },
+  "description": "Inorganic carbon",
+  "name": "Inorganic carbon",
   "propertyID": {
     "@id": "https://goosocean.org/document/17475"
   }

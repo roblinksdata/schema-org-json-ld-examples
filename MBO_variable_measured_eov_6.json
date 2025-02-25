@@ -5,14 +5,8 @@
   },
   "@id": "https://w3id.org/marco-bolo/MBO_variable_measured_eov_6",
   "@type": "PropertyValue",
-  "description": {
-    "@type": "Text",
-    "@value": "Seagrass cover and composition"
-  },
-  "name": {
-    "@type": "Text",
-    "@value": "Seagrass cover and composition"
-  },
+  "description": "Seagrass cover and composition",
+  "name": "Seagrass cover and composition",
   "propertyID": {
     "@id": "https://goosocean.org/document/17513"
   }

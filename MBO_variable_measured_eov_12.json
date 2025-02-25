@@ -5,14 +5,8 @@
   },
   "@id": "https://w3id.org/marco-bolo/MBO_variable_measured_eov_12",
   "@type": "PropertyValue",
-  "description": {
-    "@type": "Text",
-    "@value": "Sea surface height"
-  },
-  "name": {
-    "@type": "Text",
-    "@value": "Sea surface height"
-  },
+  "description": "Sea surface height",
+  "name": "Sea surface height",
   "propertyID": {
     "@id": "https://goosocean.org/document/17465"
   }

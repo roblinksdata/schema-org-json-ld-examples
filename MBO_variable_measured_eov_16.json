@@ -5,14 +5,8 @@
   },
   "@id": "https://w3id.org/marco-bolo/MBO_variable_measured_eov_16",
   "@type": "PropertyValue",
-  "description": {
-    "@type": "Text",
-    "@value": "Subsurface currents"
-  },
-  "name": {
-    "@type": "Text",
-    "@value": "Subsurface currents"
-  },
+  "description": "Subsurface currents",
+  "name": "Subsurface currents",
   "propertyID": {
     "@id": "https://goosocean.org/document/17469"
   }

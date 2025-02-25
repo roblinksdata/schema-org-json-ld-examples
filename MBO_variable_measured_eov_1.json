@@ -5,14 +5,8 @@
   },
   "@id": "https://w3id.org/marco-bolo/MBO_variable_measured_eov_1",
   "@type": "PropertyValue",
-  "description": {
-    "@type": "Text",
-    "@value": "Zooplankton biomass and diversity"
-  },
-  "name": {
-    "@type": "Text",
-    "@value": "Zooplankton biomass and diversity"
-  },
+  "description": "Zooplankton biomass and diversity",
+  "name": "Zooplankton biomass and diversity",
   "propertyID": {
     "@id": "https://goosocean.org/document/17509"
   }

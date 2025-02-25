@@ -11,8 +11,5 @@
   "parentItem": {
     "@id": "https://w3id.org/marco-bolo/mbo_TODO_DATASET_5"
   },
-  "text": {
-    "@type": "Text",
-    "@value": "This one was hard work too."
-  }
+  "text": "This one was hard work too."
 }

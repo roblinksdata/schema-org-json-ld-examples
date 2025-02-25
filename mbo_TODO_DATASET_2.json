@@ -5,38 +5,20 @@
   },
   "@id": "https://w3id.org/marco-bolo/mbo_TODO_DATASET_2",
   "@type": "Dataset",
-  "description": {
-    "@type": "Text",
-    "@value": "Some second description"
-  },
+  "description": "Some second description",
   "distribution": {
     "@id": "https://w3id.org/marco-bolo/MBO_TODO_data_download_1"
   },
-  "schema:isBasedOn": [
-    {
-      "@type": "URL",
-      "@value": "https://w3id.org/marco-bolo/mbo_TODO_DATASET_1"
-    },
-    {
-      "@type": "URL",
-      "@value": "https://example.com/some-existing-dataset"
-    }
+  "isBasedOn": [
+    "https://example.com/some-existing-dataset",
+    "https://w3id.org/marco-bolo/mbo_TODO_DATASET_1"
   ],
-  "schema:license": {
-    "@type": "URL",
-    "@value": "https://spdx.org/licenses/CC0-1.0"
-  },
-  "name": {
-    "@type": "Text",
-    "@value": "Some second title"
-  },
+  "license": "https://spdx.org/licenses/CC0-1.0",
+  "name": "Some second title",
   "sdPublisher": {
     "@id": "https://oceanexpert.org/expert/32820"
   },
-  "schema:url": {
-    "@type": "URL",
-    "@value": "https://example.com/some-further-landing-page"
-  },
+  "url": "https://example.com/some-further-landing-page",
   "variableMeasured": {
     "@id": "https://w3id.org/marco-bolo/MBO_variable_measured_1"
   },
