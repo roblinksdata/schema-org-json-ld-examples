@@ -9,10 +9,7 @@
     "@id": "https://oceanexpert.org/expert/27172"
   },
   "contentSize": "15MB",
-  "schema:contentUrl": {
-    "@type": "URL",
-    "@value": "https://example.com/some-file.csv"
-  },
+  "contentUrl": "https://example.com/some-file.csv",
   "creativeWorkStatus": "Published",
   "dateCreated": "2024-01-02",
   "dateModified": "2025-01-01",
