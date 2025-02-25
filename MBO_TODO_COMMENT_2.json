@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@import": "https://schema.org/",
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://w3id.org/marco-bolo/MBO_TODO_COMMENT_2",
+  "@type": "Comment",
+  "creator": {
+    "@id": "https://example.com/someone"
+  },
+  "parentItem": {
+    "@id": "https://w3id.org/marco-bolo/mbo_TODO_DATASET_5"
+  },
+  "text": {
+    "@type": "Text",
+    "@value": "This one was hard work too."
+  }
+}

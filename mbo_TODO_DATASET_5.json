@@ -1,0 +1,38 @@
+{
+  "@context": {
+    "@import": "https://schema.org/",
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://w3id.org/marco-bolo/mbo_TODO_DATASET_5",
+  "@type": "Dataset",
+  "conditionsOfAccess": {
+    "@type": "Text",
+    "@value": "I don’t want to publish it please."
+  },
+  "description": {
+    "@type": "Text",
+    "@value": "Some third description"
+  },
+  "schema:license": {
+    "@type": "URL",
+    "@value": "https://spdx.org/licenses/CC0-1.0"
+  },
+  "name": {
+    "@type": "Text",
+    "@value": "Some third title"
+  },
+  "sdPublisher": {
+    "@id": "https://oceanexpert.org/expert/27172"
+  },
+  "schema:url": {
+    "@type": "URL",
+    "@value": "https://example.com/some-even-further-landing-page"
+  },
+  "variableMeasured": {
+    "@id": "https://w3id.org/marco-bolo/MBO_variable_measured_1"
+  },
+  "https://w3id.org/marco-bolo/inProgressDataDate#TODO": {
+    "@type": "Date",
+    "@value": "2028-01-01"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "@context": {
+    "@import": "https://schema.org/",
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://w3id.org/marco-bolo/MBO_TODO_data_download_1",
+  "@type": "DataDownload",
+  "author": {
+    "@id": "https://oceanexpert.org/expert/27172"
+  },
+  "contentSize": {
+    "@type": "Text",
+    "@value": "15MB"
+  },
+  "schema:contentUrl": {
+    "@type": "URL",
+    "@value": "https://example.com/some-file.csv"
+  },
+  "creativeWorkStatus": {
+    "@type": "Text",
+    "@value": "Published"
+  },
+  "dateCreated": "2024-01-02",
+  "dateModified": "2025-01-01",
+  "datePublished": "2024-02-06",
+  "description": {
+    "@type": "Text",
+    "@value": "Some second title available in ZIP format."
+  },
+  "encodesCreativeWork": {
+    "@id": "https://w3id.org/marco-bolo/mbo_TODO_DATASET_2"
+  },
+  "encodingFormat": {
+    "@type": "Text",
+    "@value": "application/zip"
+  },
+  "schema:license": {
+    "@type": "URL",
+    "@value": "https://spdx.org/licenses/CC0-1.0"
+  },
+  "name": {
+    "@type": "Text",
+    "@value": "Some second title (Zip)"
+  },
+  "producer": {
+    "@id": "https://oceanexpert.org/expert/27172"
+  },
+  "publisher": {
+    "@id": "https://oceanexpert.org/expert/27172"
+  },
+  "sdPublisher": {
+    "@id": "https://oceanexpert.org/expert/27172"
+  },
+  "sha256": {
+    "@type": "Text",
+    "@value": "331c8768f99688e617c98593238b8423374ddfd5a04de899f89226be66d36249"
+  },
+  "version": {
+    "@type": "Text",
+    "@value": "1.0.0"
+  }
+}

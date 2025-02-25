@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@import": "https://schema.org/",
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://w3id.org/marco-bolo/MBO_variable_measured_eov_4",
+  "@type": "PropertyValue",
+  "description": {
+    "@type": "Text",
+    "@value": "Marine turtles, birds, mammals abundance and distribution"
+  },
+  "name": {
+    "@type": "Text",
+    "@value": "Marine turtles, birds, mammals abundance and distribution"
+  },
+  "propertyID": {
+    "@id": "https://goosocean.org/document/17511"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@import": "https://schema.org/",
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://w3id.org/marco-bolo/MBO_variable_measured_eov_26",
+  "@type": "PropertyValue",
+  "description": {
+    "@type": "Text",
+    "@value": "Stable carbon isotopes"
+  },
+  "name": {
+    "@type": "Text",
+    "@value": "Stable carbon isotopes"
+  },
+  "propertyID": {
+    "@id": "https://goosocean.org/document/17479"
+  }
+}

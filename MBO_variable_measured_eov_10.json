@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@import": "https://schema.org/",
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://w3id.org/marco-bolo/MBO_variable_measured_eov_10",
+  "@type": "PropertyValue",
+  "description": {
+    "@type": "Text",
+    "@value": "Ocean surface stress"
+  },
+  "name": {
+    "@type": "Text",
+    "@value": "Ocean surface stress"
+  },
+  "propertyID": {
+    "@id": "https://goosocean.org/document/17463"
+  }
+}

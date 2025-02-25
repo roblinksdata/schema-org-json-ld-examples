@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@import": "https://schema.org/",
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://w3id.org/marco-bolo/MBO_variable_measured_eov_11",
+  "@type": "PropertyValue",
+  "description": {
+    "@type": "Text",
+    "@value": "Sea ice"
+  },
+  "name": {
+    "@type": "Text",
+    "@value": "Sea ice"
+  },
+  "propertyID": {
+    "@id": "https://goosocean.org/document/17464"
+  }
+}
