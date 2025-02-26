@@ -7,7 +7,7 @@
   "@type": "Dataset",
   "description": "Some description",
   "isBasedOn": "https://example.com/some-existing-dataset",
-  "license": "https://spdx.org/licenses/EUPL-1.2",
+  "license": "file:///work/mbo_TODO_LICENSE_4",
   "name": "Some title",
   "sdPublisher": {
     "@id": "https://oceanexpert.org/expert/27172"

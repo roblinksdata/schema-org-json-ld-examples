@@ -1,0 +1,11 @@
+{
+  "@context": {
+    "@import": "https://schema.org/",
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://w3id.org/marco-bolo/mbo_TODO_LICENSE_3",
+  "@type": "CreativeWork",
+  "description": "This license was released: 16 May 2008 This license is available in the 22 official languages of the EU.",
+  "name": "European Union Public License 1.1",
+  "url": "https://spdx.org/licenses/EUPL-1.1"
+}

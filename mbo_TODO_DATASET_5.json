@@ -7,7 +7,7 @@
   "@type": "Dataset",
   "conditionsOfAccess": "I don’t want to publish it please.",
   "description": "Some third description",
-  "license": "https://spdx.org/licenses/CC0-1.0",
+  "license": "file:///work/mbo_TODO_LICENSE_1",
   "name": "Some third title",
   "sdPublisher": {
     "@id": "https://oceanexpert.org/expert/27172"

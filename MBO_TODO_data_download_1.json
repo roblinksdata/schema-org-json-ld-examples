@@ -19,7 +19,7 @@
     "@id": "https://w3id.org/marco-bolo/mbo_TODO_DATASET_2"
   },
   "encodingFormat": "application/zip",
-  "license": "https://spdx.org/licenses/CC0-1.0",
+  "license": "https://w3id.org/marco-bolo/mbo_TODO_LICENSE_1",
   "name": "Some second title (Zip)",
   "producer": {
     "@id": "https://oceanexpert.org/expert/27172"

@@ -1,0 +1,11 @@
+{
+  "@context": {
+    "@import": "https://schema.org/",
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://w3id.org/marco-bolo/mbo_TODO_LICENSE_2",
+  "@type": "CreativeWork",
+  "description": "The European Commission has approved the EUPL on 9 January 2007.",
+  "name": "European Union Public License 1.0",
+  "url": "https://spdx.org/licenses/EUPL-1.0"
+}

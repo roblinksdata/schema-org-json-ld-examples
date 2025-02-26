@@ -13,7 +13,7 @@
     "https://example.com/some-existing-dataset",
     "https://w3id.org/marco-bolo/mbo_TODO_DATASET_1"
   ],
-  "license": "https://spdx.org/licenses/CC0-1.0",
+  "license": "file:///work/mbo_TODO_LICENSE_1",
   "name": "Some second title",
   "sdPublisher": {
     "@id": "https://oceanexpert.org/expert/32820"
